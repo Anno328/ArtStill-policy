@@ -1,5 +1,7 @@
 # 利用規約（Terms of Service）
 
+See below for the English version.
+
 ## 第1条（適用）
 
 本利用規約（以下「本規約」）は、ArtStill（以下「本アプリ」）の提供条件および、本アプリの利用に関する運営者とユーザーとの間の権利義務関係を定めるものです。
@@ -54,16 +56,73 @@
 
 ---
 
-## 第8条（規約の変更）
+# Terms of Service
 
-運営者は、必要と判断した場合には、ユーザーに通知することなく本規約を変更することがあります。
-変更後の規約は、本アプリ内または適切な方法で告知された時点から効力を生じます。
+## Article 1 (Application)
+
+These Terms of Service (the “Terms”) define the conditions for providing ArtStill (the “App”) and the rights and obligations between the operator and users of the App.
+By using the App, users agree to these Terms.
 
 ---
 
-## 第9条（準拠法・管轄）
+## Article 2 (Service Description)
 
-本規約は日本法に準拠し、本アプリに関して生じた紛争については、運営者の所在地を管轄する裁判所を専属的合意管轄とします。
+1. The App provides an experience for viewing and saving artworks.
+2. The artworks displayed in the App are primarily based on public domain data provided by third parties.
+3. The App may modify, add to, or discontinue its content or services without prior notice.
+
+---
+
+## Article 3 (Conditions of Use)
+
+1. Users shall use the App at their own responsibility.
+2. Users must not engage in any activities that violate laws or public order and morals.
+
+---
+
+## Article 4 (Intellectual Property Rights)
+
+1. Artwork images and information displayed in the App are used in accordance with the terms set by their respective providers, primarily as public domain materials.
+2. The copyright and other intellectual property rights related to the App’s UI, structure, design, and programs belong to the operator or the legitimate rights holders.
+3. Users may not use data obtained through the App beyond the scope permitted by the applicable usage conditions of each artwork.
+
+---
+
+## Article 5 (Saving and Archive Features)
+
+1. Users may save (archive) artworks within the App.
+2. Saved data is intended for personal use only and is not meant for public disclosure.
+3. The operator does not guarantee the completeness or permanence of saved data.
+
+---
+
+## Article 6 (Paid Features)
+
+1. The App may include certain paid features.
+2. Details regarding pricing, content, and conditions of paid features shall follow the information displayed within the App.
+3. Refunds after purchase shall be handled in accordance with the rules of the relevant platform (such as the App Store).
+
+---
+
+## Article 7 (Disclaimer)
+
+1. The operator makes no guarantees regarding the accuracy, completeness, or usefulness of the App’s content.
+2. The operator shall not be liable for any damages arising from the use of the App.
+3. The operator shall not be responsible for any impact caused by changes, interruptions, or termination of external services (APIs, data providers, etc.).
+
+---
+
+## Article 8 (Amendments to the Terms)
+
+The operator may revise these Terms without prior notice if deemed necessary.
+Revised Terms shall take effect at the time they are announced within the App or by other appropriate means.
+
+---
+
+## Article 9 (Governing Law and Jurisdiction)
+
+These Terms shall be governed by the laws of Japan.
+Any disputes arising in connection with the App shall be subject to the exclusive jurisdiction of the court having jurisdiction over the operator’s location.
 
 ---
 
