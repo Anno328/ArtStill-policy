@@ -7,6 +7,11 @@ See below for the English version.
 本利用規約（以下「本規約」）は、ArtStill（以下「本アプリ」）の提供条件および、本アプリの利用に関する運営者とユーザーとの間の権利義務関係を定めるものです。
 ユーザーは、本規約に同意した上で本アプリを利用するものとします。
 
+本アプリは、作品との出会いや、それに対して感じたことを記録・保存する体験を提供します。
+本アプリ内で表示される作品画像の一部は、第三者が提供するデータを利用しており、提供元の事情により表示内容が変更、または利用できなくなる場合があります。
+その場合でも、ユーザーが本アプリ内に保存した記録やメモは引き続きご利用いただけます。
+本アプリ内課金は、機能および体験の拡張を目的としたものであり、特定の外部サービスやコンテンツの永続的な提供を保証するものではありません。
+
 ---
 
 ## 第2条（サービス内容）
@@ -62,6 +67,11 @@ See below for the English version.
 
 These Terms of Service (the “Terms”) define the conditions for providing ArtStill (the “App”) and the rights and obligations between the operator and users of the App.
 By using the App, users agree to these Terms.
+
+This app provides an experience for discovering works and recording and saving your thoughts about them.
+Some artwork images displayed within this app utilize data provided by third parties. Displayed content may change or become unavailable due to circumstances at the source.
+Even in such cases, records and notes saved by users within this app will remain accessible.
+In-app purchases are intended to enhance functionality and the overall experience and do not guarantee the permanent provision of specific external services or content.
 
 ---
 
